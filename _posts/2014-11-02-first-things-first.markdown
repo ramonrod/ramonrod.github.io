@@ -32,7 +32,7 @@ for quant in range(99, 0, -1):
    {% endhighlight %}
 
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+There are for sure many other very interesting topics about jekyll that I won't mention here, but feel free to check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 {% highlight js %}
 
@@ -49,4 +49,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll]:		http://jekyllrb.com
 [jekyll-gh]:   	https://github.com/jekyll/jekyll
 [jekyll-help]: 	https://github.com/jekyll/jekyll-help
-[github]:	   	https://github.com/         
+[github]:	   	https://github.com/          
