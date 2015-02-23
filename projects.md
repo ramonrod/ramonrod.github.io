@@ -23,4 +23,8 @@ QuantHistLing is a five year project (2010-2015) funded by the European Research
 Websites of the project:
 [Research Unit: Language Typology and Quantitative Linguistics](https://www.uni-marburg.de/fb09/igs/arbeitsgruppen/typology?set_language=en)!
 
+<<<<<<< HEAD
 [Quantitative Historical Linguistics](http://quanthistling.info/)
+=======
+[Quantitative Historical Linguistics](http://quanthistling.info/)
+>>>>>>> d8beb32d39688bb4a1f0431c4f80cd8525448d8c
