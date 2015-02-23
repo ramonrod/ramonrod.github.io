@@ -28,4 +28,4 @@ if (mousePressed)
 {fill(0);}
 {% endhighlight %}
 
-3. Dobble click on the file, and woila ... start playing with it. A window will appear where you can move and click the cursor of mouse across it, and see what happends!
+Dobble click on the file, and woila ... start playing with it. A window will appear where you can move and click the cursor of mouse across it, and see what happends!
