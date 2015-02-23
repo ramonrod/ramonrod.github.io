@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projetcs/QLC/
+permalink: /projetcs/
 ---
 
 
