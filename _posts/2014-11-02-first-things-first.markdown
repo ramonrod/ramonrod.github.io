@@ -3,7 +3,7 @@ layout: post
 title: "First Things First"
 date: 2014-11-02 13:16:1
 categories: jekyll
-tags: featured
+tags: Programming
 image: /assets/article_images/jekyll/logo.png
 ---
 So, here it is, my first post. 
