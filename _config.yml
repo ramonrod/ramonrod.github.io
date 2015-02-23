@@ -4,7 +4,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Site settings
-title: "Ramón Rodríguez Figueroa"
+title: "Ramón's Blog"
 # description: > # this means to ignore newlines until "email:"
 #    A Jekyll theme - Medium inspired
 
@@ -14,8 +14,8 @@ logo: "/assets/images/logo_1.png"
 # blog cover
 cover: "/assets/images/canaima-4.jpg"
 
-name: 'Ramón Rodríguez Figueroa'
-author: 'Ramón Rodríguez Figueroa'
+name: 'Ramón'
+author: 'Ramón'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
