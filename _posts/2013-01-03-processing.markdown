@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "second post"
+title: "Processing"
 date: 2013-01-03 15:00:00
 categories: Programming
 tags: post
 image:
 ---
-Processing
+
 http://processing.org/
 
 “Processing is an open source programming language and environment for people who want to create images, animations, and interactions. Initially developed to serve as a software sketchbook and to teach fundamentals of computer programming within a visual context, Processing also has evolved into a tool for generating finished professional work. Today, there are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning, prototyping, and production.”
@@ -19,8 +19,7 @@ Try it yourself is fun!
 
 2.Create a file in an editor called: "draw_circles.jar", or whatever you want. The file format ".jar" referes to a "java archive" file.
 
-write the following code in the file:
-
+3. Write the following code in the file and save it:
 {% highlight java %}
 void setup() {  
 size(480, 480);} 
