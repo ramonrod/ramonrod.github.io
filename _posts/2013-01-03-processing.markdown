@@ -17,7 +17,7 @@ Try it yourself is fun!
 
 1. Download processing.
 
-2.Create a file in an editor called: "draw_circles.jar", or whatever you want. The file format ".jar" referes to a "java archive" file.
+2. Create a file in an editor called: "draw_circles.jar", or whatever you want. The file format ".jar" referes to a "java archive" file.
 
 3. Write the following code in the file and save it:
 {% highlight java %}
