@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I was employed by the [Philipps-University of Marburg](http://www.uni-marburg.de/) in Germany at the [Forschungszentrum Deutscher Sprschatlas](http://www.uni-marburg.de/fb09/dsa) and I am  member of the the research group [“Language Typolbogy and Quantitative Linguistics“](https://www.uni-marburg.de/fb09/igs/arbeitsgruppen/typology?set_language=en). Before that I was employed by the Ludwig-Maximilians-Universität in München, in the deparment of Linguistics and Language Typology. Now a days I'm working with Data Warehousing, Data Visualization and trying to solve some problems with Big Data. 
+The purpose of this site is to write about different topics, including:
+-Semantic Search
+-Text Mining
+-Language documentation projects, and computaional linguistic issues in general, and any other topic that might come to my mind. Having said that, some of the future posts can go more into research ideas, and some of them can be the result of traveling to interesting places and therefore leisure readings.
 
-My main research interests are in new applications for corpus- and knowledge-based semantic analysis as methods for semantic similarity and Data Mining. My focus lies on the analysis of meaning and polysemy as a trigger of lexical semantic information. I am also deeply interested in language typology and language documentation specially in Central and South America. Technically, my attention has been concentrated on methods for information retrieval, new applications for Natural Language Processing and the use of graph theory in linguistics, Data Warehouse and Business Intelligence. I spend the rest of my time learning and programming with Python.
+My main research interests are in new applications for corpus- and knowledge-based semantic analysis as methods for semantic similarity and Data Mining. My focus lies on the analysis of meaning and polysemy as a trigger of lexical semantic information. I am also deeply interested in language typology and language documentation specially in Central and South America. Technically speaking my attention has been focused on methods for information retrieval, Natural Language Processing, Graph Theory in linguistics. 
+
+Now a days I work with Data Warehousing, Data Visualization and Big Data tehnologies. 
+
+I spend the rest of my time learning and programming with Python.
 
 
