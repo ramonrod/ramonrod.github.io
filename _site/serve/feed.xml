@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramón Rodríguez Figueroa</title>
+    <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    <link>http://ramonrod.github.io//</link>
+    <atom:link href="http://ramonrod.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>2016-12-04 17:01:14 +0100</pubDate>
+    <lastBuildDate>2016-12-04 17:01:14 +0100</lastBuildDate>
+    <generator>Jekyll v</generator>
+    
+      <item>
+        <title>Quantitative Linguistics</title>
+        <description>&lt;p&gt;Quantitative modeling of historical-comparative linguistics (QUANTHISTLING): 
+Unraveling the phylogeny of native South American languages (ERC starting grant)&lt;/p&gt;
+
+&lt;p&gt;From October 2010 to end of 2014 I worked as a research assistant at the research unit quantitative Historical Linguistics (QUANTHISTLING), first at the Ludwig-Maximilans-Universität in München and then at the Philipps-Universität of Marburg. Within this project I was responsible for the improvement and reliability of the accumulated data. Within this project I am a PhD candidate, my research focus on meaning analysis, lexical semantics and  polysemy (colexification) in some of the indigenous languages of South America.&lt;/p&gt;
+
+&lt;p&gt;Here is a summary of the project:&lt;/p&gt;
+
+&lt;p&gt;The project aims to uncover and clarify phylogenetic relationships between native South American languages using quantitative methods. The two main objectives of the projects are digitalization of the lexical resources on native South American languages and development of new and innovative computer-assisted methods to quantitatively analyze this information.&lt;/p&gt;
+
+&lt;p&gt;Most data available on native South American languages is predominantly in printed form. To quantitatively investigate the linguistic relationships among them, a large effort is made to digitize as many dictionaries and translated texts of South American languages as possible, starting with the more accepted larger families (e.g., Arawakan, Cariban, Tupían), and working our way through to the many smaller families and language isolates. By the end of the project we expect to have large body of digitized data which is expected to stimulate historical-comparative linguistic research also after the current project has ended.&lt;/p&gt;
+
+&lt;p&gt;The second, more general, objective of the project is to transform historical-comparative linguistics from a primarily handcrafted scholarly endeavor, performed by individual researchers, into a quantitative and collaborative field of research. In order to achieve this we are developing different algorithmic approaches to assist the historical-comparative approach to the reconstruction of the phylogeny of languages. The algorithms developed during the course of this project can be employed for quantitative language comparison in more general sense, both from synchronic and diachronic perspective. They are realized as a suite of open-source Python modules that can be used to analyze and compare languages at the phonetic/phonological, lexical and semantic level.&lt;/p&gt;
+
+&lt;p&gt;QuantHistLing is a five year project (2010-2015) funded by the European Research Council under a Starting Researcher Grant.The project is being led by Prof. Dr. Michael Cysouw.&lt;/p&gt;
+
+&lt;p&gt;Websites of the project:
+&lt;a href=&quot;https://www.uni-marburg.de/fb09/igs/arbeitsgruppen/typology?set_language=en&quot;&gt;Research Unit: Language Typology and Quantitative Linguistics&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>2016-12-04 00:00:00 +0100</pubDate>
+        <link>http://ramonrod.github.io//Projects/2016/12/04/QUANTHISTLING.html</link>
+        <guid isPermaLink="true">http://ramonrod.github.io//Projects/2016/12/04/QUANTHISTLING.html</guid>
+        
+        <category>Programming</category>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>jekyll</title>
+        <description>&lt;p&gt;On my way looking for a new blogging application, after trying most the well-known content manager systems out there like Drupal, Wordpress and Joomla, I came across jekyll. Since I’m already using github for at work I thought I will be convenient to give it a try. Jekyll is a blogging application (or if you prefer the term of &lt;em&gt;static website genrator&lt;/em&gt;) based on Ruby that fits nicely with github-pages and can be used as free hosting place for your website and project. Another great thing about jekyll, is that it doesn’t require a database but just files that will be converted to HTML, the result is a static website, fast, secure and flexible. You can use markdown syntax for your text what allows you to concentrate on your content.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets, which is very handy when publishing blogs about programming languages. For example:&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;python&quot;&gt;&amp;quot;&amp;quot;&amp;quot;
+99 Bottles of Beer 
+&amp;quot;&amp;quot;&amp;quot;
+for quant in range(99, 0, -1):
+   if quant &amp;gt; 1:
+      print(quant, &amp;quot;bottles of beer on the wall,&amp;quot;, quant, &amp;quot;bottles of beer.&amp;quot;)
+      if quant &amp;gt; 2:
+         suffix = str(quant - 1) + &amp;quot; bottles of beer on the wall.&amp;quot;
+      else:
+         suffix = &amp;quot;1 bottle of beer on the wall.&amp;quot;
+   elif quant == 1:
+      print(&amp;quot;1 bottle of beer on the wall, 1 bottle of beer.&amp;quot;)
+      suffix = &amp;quot;no more beer on the wall!&amp;quot;
+   print(&amp;quot;Take one down, pass it around,&amp;quot;, suffix)
+   print(&amp;quot;--&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;There are certaily many other interesting things to learn about jekyll that I just won’t mention here, but feel free to check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;js&quot;&gt;&amp;lt;footer class=&amp;quot;site-footer&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;subscribe&amp;quot; href=&amp;quot;/feed.xml&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;tooltip&amp;quot;&amp;gt; &amp;lt;i class=&amp;quot;fa fa-rss&amp;quot;&amp;gt;&amp;lt;/i&amp;gt; Subscribe!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+  &amp;lt;div class=&amp;quot;inner&amp;quot;&amp;gt;a
+   &amp;lt;section class=&amp;quot;copyright&amp;quot;&amp;gt;All content copyright &amp;lt;a href=&amp;quot;mailto:ramon.vene@gmail.com&amp;quot;&amp;gt;Ramón&amp;lt;/a&amp;gt; &amp;amp;copy; 2014 &amp;amp;bull; All rights reserved.&amp;lt;/section&amp;gt;
+   &amp;lt;section class=&amp;quot;poweredby&amp;quot;&amp;gt;Made with &amp;lt;a href=&amp;quot;http://jekyllrb.com&amp;quot;&amp;gt; Jekyll&amp;lt;/a&amp;gt;&amp;lt;/section&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/footer&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>2016-01-21 11:30:00 +0100</pubDate>
+        <link>http://ramonrod.github.io//jekyll/2016/01/21/jekyll.html</link>
+        <guid isPermaLink="true">http://ramonrod.github.io//jekyll/2016/01/21/jekyll.html</guid>
+        
+        <category>Programming</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Processing</title>
+        <description>&lt;p&gt;http://processing.org/&lt;/p&gt;
+
+&lt;p&gt;“Processing is an open source programming language and environment for people who want to create images, animations, and interactions. Initially developed to serve as a software sketchbook and to teach fundamentals of computer programming within a visual context, Processing also has evolved into a tool for generating finished professional work. Today, there are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning, prototyping, and production.”&lt;/p&gt;
+
+&lt;p&gt;I think Processing it is a really powerful tool for graphic representations. Here is one example which you also can find on the Processing website: Download and start the java-application below by double clicking on it. Move the mouse across the pop-up window interface. If you press the mouse button within the windows interface the circles will turn black. You can fine many others examples in the tutorials of Processing. Have fun!&lt;/p&gt;
+
+&lt;p&gt;Try it yourself is fun!&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Download processing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a file in an editor called: “draw_circles.jar”, or whatever you want. The file format “.jar” referes to a “java archive” file.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write the following code in the file and save it:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;div&gt;
+  &lt;pre&gt;&lt;code class=&quot;java&quot;&gt;void setup() {  
+size(480, 480);} 
+void draw() {  
+if (mousePressed)  
+{fill(0);}&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dobble click on the file, and woila … start playing with it. A window will appear where you can move and click the cursor of mouse across it, and see what happends!&lt;/p&gt;
+</description>
+        <pubDate>2013-01-03 16:00:00 +0100</pubDate>
+        <link>http://ramonrod.github.io//Programming/2013/01/03/processing.html</link>
+        <guid isPermaLink="true">http://ramonrod.github.io//Programming/2013/01/03/processing.html</guid>
+        
+        <category>post</category>
+        
+        
+        <category>Programming</category>
+        
+      </item>
+    
+  </channel>
+</rss>
