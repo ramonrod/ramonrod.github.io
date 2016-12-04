@@ -1,7 +1,7 @@
 ---
 layout: post
-title: QUNATHISTLING
-/*date: 2014-11-02 13:16:1**/
+title: Quantitative Linguistics
+date: 2016-12-04
 categories: Projects
 tags: Programming
 image: /assets/article_images/jekyll/logo.png
